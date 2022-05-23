@@ -10,7 +10,7 @@ composer install
 
 ## Base de données
 
-Créer la base de données `portfolio` et créer la table SQL nécessaire au projet avec le fichier `database.sql` situé à la racine du projet.
+Créer la base de données `portfolio` et créer les tables SQL nécessaires au projet avec le fichier `database.sql` situé à la racine du projet.
 
 ## Fixtures
 
